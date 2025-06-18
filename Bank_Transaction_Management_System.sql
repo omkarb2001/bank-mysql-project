@@ -35,8 +35,8 @@ CREATE TABLE transactions (
 
 -- Sample customer data
 INSERT INTO customers (full_name, email, phone, address) VALUES
-('Omkar Borkar', 'omkar@email.com', '9876543210', 'Pune'),
-('Riya Sen', 'riya@email.com', '9123456780', 'Mumbai');
+('Omkar Borkar', 'omkar@email.com', '9844445210', 'Pune'),
+('Riya Sen', 'riya@email.com', '9445556780', 'Mumbai');
 
 -- Sample account data
 INSERT INTO accounts (customer_id, account_type, balance) VALUES
